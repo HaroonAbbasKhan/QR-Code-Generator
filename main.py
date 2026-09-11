@@ -18,7 +18,7 @@ from tkinter import ttk, filedialog, messagebox, colorchooser
 
 import qrcode
 from PIL import Image, ImageTk
-
+#hedllo
 
 # --------------------------------------------------------------------------
 # Payload builders (pure functions -- no GUI dependency, easy to test)
